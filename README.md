@@ -14,6 +14,7 @@ Visualization.ipynb --> Here (almost) all graphics used in the report were creat
 Folder Data: Contains all used datasets (also the self created ones)
 
 Sources of records:
+
     * AreaUsage.xlsx 
         --> https://www.statistik.bayern.de/statistik/gebiet_bevoelkerung/gebiet/index.html
     * Baulandveräußerungen in Bayern nach Baulandarten.csv 
