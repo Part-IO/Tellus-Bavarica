@@ -1,19 +1,19 @@
 # Tellus-Bavarica
 
-Hallo und herzlich willkommen bei Tellus-Bavarica. Hier findest du Informationen zum Bericht "Preisentwicklung von Bauland in Bayern und
-mögliche Faktoren" von Benjamin Altmiks. Der Latex Bericht ist dabei in Overleaf zu finden unter folgendem Link:
+Hello and welcome to Tellus-Bavarica. 
+Here you can find information about the report "Price development of building land in Bavaria and possible factors" by Benjamin Altmiks. 
+The latex report can be found in Overleaf under the following link (in German):
     --> https://www.overleaf.com/read/vntcdvfbcgjv
 
-Folgende Informationen kannst du in den Jupyter Notebooks finden:
+You can find the following information in Jupyter Notebooks:
 
-AreaView.ipynb --> Hier wurde die komplette Korrelationsanalyse aller Tabellen durchgeführt. Es kann dabei einfach durch das Notebook durchgecklickt werden.
+AreaView.ipynb --> Here the complete correlation analysis of all tables was done. It can be easily clicked through the notebook.
 
-Visualization.ipynb --> Hier wurden (fast) alle Grafiken, die im Bericht verwendet wurden erstellt. 
+Visualization.ipynb --> Here (almost) all graphics used in the report were created. 
 
-Ordner Data: Enthält alle verwendeten Datensätze (auch die selbst erstellen)
+Folder Data: Contains all used datasets (also the self created ones)
 
-Quellen der Datensätze: 
-
+Sources of records:
     * AreaUsage.xlsx 
         --> https://www.statistik.bayern.de/statistik/gebiet_bevoelkerung/gebiet/index.html
     * Baulandveräußerungen in Bayern nach Baulandarten.csv 
